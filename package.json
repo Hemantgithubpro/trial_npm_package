@@ -1,0 +1,22 @@
+{
+  "name": "hemant_isiteven",
+  "version": "1.0.0",
+  "description": "is the number even?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemantgithubpro/trial_npm_package.git"
+  },
+  "keywords": [
+    "iseven"
+  ],
+  "author": "hemant jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemantgithubpro/trial_npm_package/issues"
+  },
+  "homepage": "https://github.com/Hemantgithubpro/trial_npm_package#readme"
+}
